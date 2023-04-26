@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "crested-lexicon-384811",
+    "private_key_id": "9f90dfbb903d1a6b7bf3e8620b9d64543f40ae00",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm8jlPW86fNXvb\nLywAWb4mZW52rY122OIs73K5Lm3+A5gDTyEfB+cRDzlg7gaccCpAIzCqxfa4zscS\nAOF15cOgplAPLsh5DXwwnui4MPiZbJQLEgFKB/AMwB3sl3ZDXGLhYMkl5pK4URur\ni2m0ABU4mHmXi+pAhWTkzBWtwD8txCErGeraelsfBIwDwmBCA3QkPDrRe8XiZsmp\ntPpd3KkhU4/t2XriXodmSmNhYc2OEm+DthA+Tqta/NGRYioVTyyOEWIMSBjjpleU\nsn/UutVSvUyh1j/z65/k49eXW+KB14GwV6+4rCoPOn5Q2YCBk71rvg1xjE4f3b+t\nI5+kRFcVAgMBAAECggEAHHkciCnu1B2RmcDyXr7vnOnYzLnt8jKsZKCULvw5u0SO\npSXWTs4QvUqc7Si7jOvecODvmHi6CywNLMdkrLB6zIgBCI3gmDDSGRLJOzzy8Wvg\n1gCEosU2zl3n3KW6gGOd47WXqPSp2nDO6NOWvCH1fJkYx92PnuCBZDpgiilLPTk6\nuEnRPqh1qvfpH3H7WAIBcRPTh8Gzf720cQDIg7N3bFfdvaH2vIA3eYjdE41Mtqx7\nPSb5xorXqlfB3SKXpHh9ZY2oOA1coP93CtQJvIFUEkpkA+8BHhpTeiwhxEuuPHdH\ncQBY3MWtb8HhmAtPq59Qz3kwApJUh/hqsDaa1MDjYQKBgQDn+h4ycNW3UEE6Fyrh\nZMBS8TgLJLQ2u3bOWX84lZr71lezFfSYvGJMr5ABlO+kpt/68tAxnNSdhrrv6w7t\nUOAjIWkBVZ6bZibbo0m64L2CTCGDYdyBr1CxWsGXjnjvBjgFRxJncWakBKs3hmMJ\nE9ISD9CNEqLMM9W/HCPA+UQYkQKBgQC4PBcoV0gUrRIU9ZQw3iub+y8MCSSEaW6b\n6rt/4PgwdrAY3G+H15DiAQ1wEbgoPVHnQw6AYkXXbg3FpEDfx3FF3Wihz5oMoG9B\nn/a7qjSfSmQrlq+7A2a19RbJ2yldui6/UPyXQde1q3s9W0I4MdSrSKSxVO4V9gqH\nhS+q6+o4RQKBgDKm9I0DAkdiqLtsb5qDi1MRBLG6M/d3e3uXIyZR1GOE6+VYt+3Z\nxIUGGKWfxavoHCQJfNg4bFxxHMRiSQIclLRXCTyXW2iHJ5jx0JmTlQ2sXez4I1PV\n2gK/1GGpZFKcwwK0ABrCMi1CL7iSCXHj+Aylk14aYZ3A+70dAdmTFAFhAoGAJW43\n+j85atH64X0/fWo2C/vNhDF7VNei3FSlgYawhhAnGPX4Ru4aBoDWPRWsh6hlsomi\nMZ1FuU4nyCbl81EvB1XDg1SNZNFXqUqZs2kSRea0UVLNIz6+qGtCFQLM9bj09HO8\nzfJXpBZR9JZM7uPY5G/e3hR2Rsn1O7FojN5feM0CgYEAkeasltFo0/DdEJvPiRT/\nDaeJIBfZXNQryyQjLmfSpVzCJhzJ+Y/oeLsF44qtalV4ydaniqVDR6MZx6BP4exR\nZaKYHOBq0skEbGYlrPocb+kCNCuYXRH1kj4iAXaaEsgafOzrKhhEqiK07mSBQ5Ci\nY5pS2nsiQSliZkSyypu47lY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-l12c3@crested-lexicon-384811.iam.gserviceaccount.com",
+    "client_id": "107170842910714298924",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l12c3%40crested-lexicon-384811.iam.gserviceaccount.com"
+  }
+  
